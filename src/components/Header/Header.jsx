@@ -7,9 +7,9 @@ const Header = () => {
             <nav className="flex justify-between header-nav">
                 <img src="Logo.png" alt="" />
                 <ul className="flex gap-10 text-xl font-semibold justify-center items-center">
-                    <NavLink to='/'>Home</NavLink>
-                    <NavLink>Donation</NavLink>
-                    <NavLink>Statistics</NavLink>
+                    <li><NavLink to='/'>Home</NavLink></li>
+                    <li><NavLink to='/donation'>Donation</NavLink></li>
+                    <li><NavLink to='/statistics'>Statistics</NavLink></li>
                 </ul>
             </nav>
 
