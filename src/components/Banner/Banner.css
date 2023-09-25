@@ -1,0 +1,24 @@
+
+.inputField{
+   background-color: white;
+   padding: 10px;
+   padding-top: 10px;
+   width: 470px;
+   height: 50px;
+   border: 1px solid rgba(0, 0, 0, 0.282);
+   margin-top: 20px;
+   border-radius:  10px 0px 0px 10px ;
+}
+
+.search-btn{
+    background-color: red;
+    padding: 14px;
+    padding: 13px 18px;
+    border-radius: 0px 10px 10px 0px ;
+    margin-bottom: 2px;
+    margin-right: 2px;
+}
+
+input::placeholder{
+
+}
