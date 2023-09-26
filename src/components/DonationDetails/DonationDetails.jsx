@@ -8,7 +8,7 @@ const DonationDetails = () => {
     const { donationId } = useParams()
     const singleData = details.find(data => data.id == donationId)
     // console.log(singleData);
-    const { img2, title, price, description, textColor } = singleData
+    const { img2, title, price, description, TEXTColor } = singleData
 
     const handleToast = () => {
         saveLocalStorage(singleData)
@@ -22,8 +22,8 @@ const DonationDetails = () => {
                 <img className="w-full h-[650px]" src={img2} alt="" />
                 <div className="w-full h-[120px] absolute bottom-0 left-0">
                     <p className="bg-[#0B0B0B7F] -mt-[184px] w-full h-full text-left flex items-center">
-                        <button onClick={handleToast} className="p-3 btn ml-8 text-xl text-white font-medium"
-                            style={{ backgroundColor: textColor }}>Donate <span>${price}</span></button>
+                        <button onClick={()=>handleToast()} className="p-3 btn ml-8 text-xl text-white font-medium"
+                            style={{ backgroundColor: TEXTColor }}>Donate <span>${price}</span></button>
                     </p>
                 </div>
             </div>

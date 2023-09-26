@@ -7,7 +7,7 @@
         "category": "Health",
         "cardBgColor": "#0052FF26",
         "categoryBgColor": "#0052FF33",
-        "textColor": "#0052FF",
+        "TEXTColor": "#0052FF",
         "description": "Good health is a state of physical, mental, and social well-being. It involves maintaining a balanced diet, regular exercise, adequate sleep, and managing stress. Avoiding harmful habits like smoking and excessive alcohol consumption is essential. Regular check-ups and vaccinations are crucial for preventive care. Positive relationships and mental well-being contribute to overall health. Striving for good health enables a fulfilling and vibrant life.",
         "price": 500
     },
@@ -19,7 +19,7 @@
         "category": "Education",
         "cardBgColor": "#FF444A26",
         "categoryBgColor": "#FF444A33",
-        "textColor": "#FF444A",
+        "TEXTColor": "#FF444A",
         "description": "Education is the process of acquiring knowledge, skills, and values through various learning methods. It empowers individuals to understand the world, make informed decisions, and contribute to society. Formal education typically occurs in schools and universities, but learning extends beyond classrooms. Lifelong learning is essential, promoting personal growth and adaptability. Education fosters critical thinking, creativity, and problem-solving, equipping individuals with tools for success and societal progress.",
         "price": 700
     },
@@ -31,7 +31,7 @@
         "category": "Clothing",
         "cardBgColor": "#79C23F26",
         "categoryBgColor": "#79C23F33",
-        "textColor": "#79C23F",
+        "TEXTColor": "#79C23F",
         "description": "Clothing serves both functional and expressive purposes. It provides protection from the elements and cultural identity. Fashion choices vary widely, reflecting personal style, trends, and occasions. Sustainable and ethical practices in clothing production are gaining importance. Clothing is a form of self-expression, enabling individuals to convey their personality and values. It plays a significant role in social interactions and first impressions. Balancing style, comfort, and sustainability is key to making conscious clothing choices.",
         "price": 500
     },
@@ -43,7 +43,7 @@
         "category": "Food",
         "cardBgColor": "#F8714726",
         "categoryBgColor": "#F8714733",
-        "textColor": "#F87147",
+        "TEXTColor": "#F87147",
         "description": "Food is essential for nourishment and sustenance. It provides the body with nutrients, energy, and the building blocks for health. A balanced diet includes a variety of food groups, promoting overall well-being. Cultural and personal preferences influence food choices. Sustainable and ethical sourcing is increasingly important for environmental and ethical reasons. Food also holds cultural and social significance, often bringing people together for meals and celebrations. Making mindful food choices is integral to a healthy and sustainable lifestyle.",
         "price": 1000
     },
@@ -55,7 +55,7 @@
         "category": "Food",
         "cardBgColor": "#F8714726",
         "categoryBgColor": "#F8714733",
-        "textColor": "#F87147",
+        "TEXTColor": "#F87147",
         "description": "Food is essential for nourishment and sustenance. It provides the body with nutrients, energy, and the building blocks for health. A balanced diet includes a variety of food groups, promoting overall well-being. Cultural and personal preferences influence food choices. Sustainable and ethical sourcing is increasingly important for environmental and ethical reasons. Food also holds cultural and social significance, often bringing people together for meals and celebrations. Making mindful food choices is integral to a healthy and sustainable lifestyle.",
         "price": 1000
     },
@@ -67,7 +67,7 @@
         "category": "Clothing",
         "cardBgColor": "#79C23F26",
         "categoryBgColor": "#79C23F33",
-        "textColor": "#79C23F",
+        "TEXTColor": "#79C23F",
         "description": "Clothing serves both functional and expressive purposes. It provides protection from the elements and cultural identity. Fashion choices vary widely, reflecting personal style, trends, and occasions. Sustainable and ethical practices in clothing production are gaining importance. Clothing is a form of self-expression, enabling individuals to convey their personality and values. It plays a significant role in social interactions and first impressions. Balancing style, comfort, and sustainability is key to making conscious clothing choices.",
         "price": 500
     },
@@ -79,7 +79,7 @@
         "category": "Education",
         "cardBgColor": "#FF444A26",
         "categoryBgColor": "#FF444A33",
-        "textColor": "#FF444A",
+        "TEXTColor": "#FF444A",
         "description": "Education is the process of acquiring knowledge, skills, and values through various learning methods. It empowers individuals to understand the world, make informed decisions, and contribute to society. Formal education typically occurs in schools and universities, but learning extends beyond classrooms. Lifelong learning is essential, promoting personal growth and adaptability. Education fosters critical thinking, creativity, and problem-solving, equipping individuals with tools for success and societal progress.",
         "price": 700
     },
@@ -91,7 +91,7 @@
         "category": "Health",
         "cardBgColor": "#0052FF26",
         "categoryBgColor": "#0052FF33",
-        "textColor": "#0052FF",
+        "TEXTColor": "#0052FF",
         "description": "Good health is a state of physical, mental, and social well-being. It involves maintaining a balanced diet, regular exercise, adequate sleep, and managing stress. Avoiding harmful habits like smoking and excessive alcohol consumption is essential. Regular check-ups and vaccinations are crucial for preventive care. Positive relationships and mental well-being contribute to overall health. Striving for good health enables a fulfilling and vibrant life.",
         "price": 500
     },
@@ -103,7 +103,7 @@
         "category": "Education",
         "cardBgColor": "#FF444A26",
         "categoryBgColor": "#FF444A33",
-        "textColor": "#FF444A",
+        "TEXTColor": "#FF444A",
         "description": "Education is the process of acquiring knowledge, skills, and values through various learning methods. It empowers individuals to understand the world, make informed decisions, and contribute to society. Formal education typically occurs in schools and universities, but learning extends beyond classrooms. Lifelong learning is essential, promoting personal growth and adaptability. Education fosters critical thinking, creativity, and problem-solving, equipping individuals with tools for success and societal progress.",
         "price": 700
     },
@@ -115,7 +115,7 @@
         "category": "Health",
         "cardBgColor": "#0052FF26",
         "categoryBgColor": "#0052FF33",
-        "textColor": "#0052FF",
+        "TEXTColor": "#0052FF",
         "description": "Good health is a state of physical, mental, and social well-being. It involves maintaining a balanced diet, regular exercise, adequate sleep, and managing stress. Avoiding harmful habits like smoking and excessive alcohol consumption is essential. Regular check-ups and vaccinations are crucial for preventive care. Positive relationships and mental well-being contribute to overall health. Striving for good health enables a fulfilling and vibrant life.",
         "price": 500
     },
@@ -127,7 +127,7 @@
         "category": "Food",
         "cardBgColor": "#F8714726",
         "categoryBgColor": "#F8714733",
-        "textColor": "#F87147",
+        "TEXTColor": "#F87147",
         "description": "Food is essential for nourishment and sustenance. It provides the body with nutrients, energy, and the building blocks for health. A balanced diet includes a variety of food groups, promoting overall well-being. Cultural and personal preferences influence food choices. Sustainable and ethical sourcing is increasingly important for environmental and ethical reasons. Food also holds cultural and social significance, often bringing people together for meals and celebrations. Making mindful food choices is integral to a healthy and sustainable lifestyle.",
         "price": 1000
     },
@@ -139,7 +139,7 @@
         "category": "Clothing",
         "cardBgColor": "#79C23F26",
         "categoryBgColor": "#79C23F33",
-        "textColor": "#79C23F",
+        "TEXTColor": "#79C23F",
         "description": "Clothing serves both functional and expressive purposes. It provides protection from the elements and cultural identity. Fashion choices vary widely, reflecting personal style, trends, and occasions. Sustainable and ethical practices in clothing production are gaining importance. Clothing is a form of self-expression, enabling individuals to convey their personality and values. It plays a significant role in social interactions and first impressions. Balancing style, comfort, and sustainability is key to making conscious clothing choices.",
         "price": 500
     }
