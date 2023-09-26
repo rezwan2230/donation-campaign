@@ -1,5 +1,6 @@
 nav a.active{
-    /* text-decoration: underline; */
+    text-decoration: underline;
+    color: red;
 }
 
 .header-nav{
