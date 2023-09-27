@@ -14,7 +14,6 @@ const DonationDetails = () => {
         saveLocalStorage(singleData)
         toast("Donation Successfull")
     }
-    console.log(singleData);
     return (
 
         <div className="container mx-auto mt-16 text-left relative">
