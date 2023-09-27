@@ -9,7 +9,7 @@ const Header = () => {
                 <img src='https://i.ibb.co/KrPvdZT/Logo.png' alt="" />
                 </div>
                 <ul className="flex gap-10 text-xl font-semibold justify-center items-center">
-                    <li><NavLink to='/'>Home</NavLink></li>
+                    <li><NavLink to="/">Home</NavLink></li>
                     <li><NavLink to='/donation'>Donation</NavLink></li>
                     <li><NavLink to='/statistics'>Statistics</NavLink></li>
                 </ul>

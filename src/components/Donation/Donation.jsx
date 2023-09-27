@@ -24,15 +24,15 @@ const Donation = () => {
     return (
         <div className="container mx-auto">
             {
-                noFound ? <div className="flex justify-center items-center h-[80vh]"><h1 className="text-2xl font-semibold text-3xl">You haven't donated yet</h1></div>: ""
+                noFound ? <div className="flex justify-center items-center h-[80vh]"><h1 className="font-semibold text-3xl">You havent donated yet</h1></div>: ""
             }
             
             {
                 isShow ? <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-16">
-                    {appliedDonation.slice(0,4).map(donate => <DonationPageDesign key={donate.id} donate={donate}></DonationPageDesign>)}
+                    {appliedDonation.slice(0,4).map((donate, idx) => <DonationPageDesign key={idx} donate={donate}></DonationPageDesign>)}
                 </div>
                     :  <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-16">
-                    {appliedDonation.map(donate => <DonationPageDesign key={donate.id} donate={donate}></DonationPageDesign>)}
+                    {appliedDonation.map((donate, index) => <DonationPageDesign key={index} donate={donate}></DonationPageDesign>)}
                 </div>
             }
 
@@ -46,12 +46,6 @@ const Donation = () => {
 };
 
 export default Donation;
-
-
-
-
-
-
 
 
 

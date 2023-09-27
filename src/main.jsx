@@ -21,7 +21,7 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
-        loader : ()=> fetch('../public/donation.json')
+        loader : ()=> fetch('donation.json')
       },
       {
         path: "/donation",
@@ -31,12 +31,12 @@ const router = createBrowserRouter([
       {
         path: "/statistics",  
         element: <Statistics></Statistics>,
-        loader : ()=> fetch('../public/donation.json')
+        loader : ()=> fetch('donation.json')
       },
       {
         path: "/donationDetails/:donationId",
         element: <DonationDetails></DonationDetails>,
-        loader : ()=> fetch('../public/donation.json')
+        loader : ()=> fetch('donation.json')
       }
     ]
   },
@@ -47,3 +47,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <RouterProvider router={router} />
   </React.StrictMode>,
 )
+
+

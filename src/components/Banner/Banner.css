@@ -3,6 +3,7 @@
    background-color: white;
    padding: 10px;
    padding-top: 10px;
+   border: none;
    
    height: 50px;
    border: 1px solid rgba(0, 0, 0, 0.282);
@@ -19,6 +20,9 @@
     margin-right: 2px;
 }
 
-input::placeholder{
 
+input:focus {
+    outline: none; 
+    border: none;  
+    border: 1px solid rgba(0, 0, 0, 0.282);
 }

@@ -1,8 +1,8 @@
-import { Link, useNavigate } from "react-router-dom";
+import PropTypes from 'prop-types';
+import { Link} from "react-router-dom";
 
 const SingleCategory = ({ singleData }) => {
     const { id, img, category, title, cardBgColor, categoryBgColor, TEXTColor } = singleData;
-
     return (
         <Link to={`/donationDetails/${id}`}>
             <div className="text-left " >
@@ -20,4 +20,9 @@ const SingleCategory = ({ singleData }) => {
     );
 };
 
+SingleCategory.propTypes = {
+    singleData: PropTypes.object
+};
+
 export default SingleCategory;
+
